@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family: 'Pixelify Sans', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.hero{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    /*background: linear-gradient(245.59deg, #4d9559 0%, #38703d 28.53%, #133917 75.52%);*/
+    background-image: url(/img/Монтажная\ область\ 1\ \(1\).png);
+    background-position: right 50%;
+    position: relative;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    gap: 2rem;
+    padding: 33px 9%;
+    padding: 12vh 33px 0;
+}
