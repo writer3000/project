@@ -48,7 +48,7 @@ header{
     width: 100%;
     min-height: 100vh;
     /*background: linear-gradient(245.59deg, #4d9559 0%, #38703d 28.53%, #133917 75.52%);*/
-    background-image: url(/img/Монтажная\ область\ 1.png);
+    background-image: url(/project/img/Монтажная\ область\ 1.png);
     background-position: right 50%;
     position: relative;
     grid-template-columns: repeat(2,1fr);
